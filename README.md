@@ -46,3 +46,8 @@ python "Edge Detection.py"
 ```
 
 > The face detection/recognition scripts need `opencv-contrib-python` (not the plain `opencv-python`) for the `cv2.face` module, and expect sample images — point the paths at your own photos or the course's resources.
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
